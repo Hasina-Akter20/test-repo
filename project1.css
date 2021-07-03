@@ -9,7 +9,8 @@
 }
 .box h1 {
   text-align: center;
-  color: rgb(111, 29, 29);
+  color: rgb(126, 22, 22);
+  text-decoration: underline;
 }
 .box p {
   text-align: justify;
